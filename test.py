@@ -1,2 +1,3 @@
 hello = 'hello world'
-print(hello)
+second = ' how are u today'
+print(hello + second)
